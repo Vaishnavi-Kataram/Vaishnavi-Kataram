@@ -1,6 +1,12 @@
-<h1>Hi, I'm Vaishnavi 👋</h1>
-<p>I'm a Software Engineer</p>
-<h2>🚀 Languages and Tools I Use</h2>
+<h1>About Me </h1>
+<p>Hi, I'm Vaishnavi 👋</p>
+<p>I'm a Software Engineer and an aspiring Data Scientist based in NYC</p>
+<p>Interested in the things that make me interesting</p>
+<p>🧠 I enjoy building and breaking systems to understand how they actually work</p>
+<p>🌱 Currently learning ML pipelines, deep learning, predictive modeling, Cloud data workflowws and system design</p>
+<p>🔍 Exploring GenAI, LLMs, Agentic AI and Data Engineering, ETL pipelines, data modeling, and scalable analytics</p>
+<p>💬 Ask me about Software Development, API Integration, AI/ML, Cloud Migration or why Debugging feels like detective work</p>
+<h1>💻 Languages and Tools I Use</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
