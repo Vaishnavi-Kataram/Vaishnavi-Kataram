@@ -1,11 +1,12 @@
-<h1>About Me </h1>
-<p>Hi, I'm Vaishnavi 👋</p>
-<p>I'm a Software Engineer and an aspiring Data Scientist based in NYC</p>
-<p>Interested in the things that make me interesting</p>
-<p>🧠 I enjoy building and breaking systems to understand how they actually work</p>
-<p>🌱 Currently learning ML pipelines, deep learning, predictive modeling, Cloud data workflowws and system design</p>
-<p>🔍 Exploring GenAI, LLMs, Agentic AI and Data Engineering, ETL pipelines, data modeling, and scalable analytics</p>
-<p>💬 Ask me about Software Development, API Integration, AI/ML, Cloud Migration or why Debugging feels like detective work</p>
+<h1>About Me</h1>
+Hi, I'm Vaishnavi 👋<br>
+I'm a Software Engineer and an aspiring Data Scientist based in NYC<br>
+Interested in the things that make me interesting<br>
+🧠 I enjoy building and breaking systems to understand how they actually work<br>
+🌱 Currently learning ML pipelines, deep learning, predictive modeling, Cloud data workflows and system design<br>
+🔍 Exploring GenAI, LLMs, Agentic AI and Data Engineering, ETL pipelines, data modeling, and scalable analytics<br>
+💬 Ask me about Software Development, API Integration, AI/ML, Cloud Migration or why Debugging feels like detective work
+
 <h1>💻 Languages and Tools I Use</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
