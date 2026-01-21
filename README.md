@@ -72,3 +72,8 @@ Interested in the things that make me interesting<br>
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 </p>
+
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api?username=VK&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=VK&show_icons=true&locale=en)" alt="VK" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=VK&](https://github-readme-streak-stats.herokuapp.com/?user=VK&)" alt="VK" /></p>
+<p><img src="[https://github-readme-stats.vercel.app/api/top-langs?username=VK&show_icons=true&locale=en&layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=VK&show_icons=true&locale=en&layout=compact)" alt="VK" /></p>
+<p><a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)"><img src="[https://github-profile-trophy.vercel.app/?username=VK](https://github-profile-trophy.vercel.app/?username=VK)" alt="VK" /></a></p>
