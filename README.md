@@ -1,6 +1,6 @@
 <h1>About Me</h1>
 Hi, I'm Vaishnavi 👋<br>
-I'm a Software Engineer and an aspiring Data Scientist based in NYC<br>
+I'm a Software Engineer/aspiring Data Scientist based in NYC<br>
 Interested in the things that make me interesting<br>
 🧠 I enjoy building and breaking systems to understand how they actually work<br>
 🌱 Currently learning ML pipelines, deep learning, predictive modeling, Cloud data workflows and system design<br>
